@@ -2,3 +2,4 @@ Welcome to Telusko
 
 java
 Php
+python
